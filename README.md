@@ -5,7 +5,7 @@
 - 🔭 Trabalho como encarregado de deposito 
 - 🌱 Estudando Sistemas para Web
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniellRibeiiro&show_icons=true&theme=dracula)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniellRibeiiro&show_icons=true&theme=ayu)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
